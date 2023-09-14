@@ -712,7 +712,7 @@ disease_symptoms = {
     'oozing or crusting',
     'recurring rashes',
     'dark-colored patches of skin',
-    ],
+],
 
 'Edema': [
     'puffiness or swelling of tissues under the skin',
@@ -721,7 +721,7 @@ disease_symptoms = {
     'shortness of breath',
     'chest pain',
     'difficulty in breathing',
-    ],
+],
 
 'Endometriosis': [
     'dysmenorrhea (Painful periods): Pelvic pain and cramping starting a few days before the menstrual period and may also include lower back and abdominal pain',
@@ -729,7 +729,7 @@ disease_symptoms = {
     'pain with urination and bowel movements: Pain during passing urine or bowel movements',
     'excessive Bleeding: Heavy bleeding (menorrhagia) and bleeding between periods (menometrorrhagia)',
     'infertility: One of the main reasons for infertility',
-    ],
+],
 
 'Eosinophilia': [
     'frequent wheezing',
@@ -739,7 +739,7 @@ disease_symptoms = {
     'fever',
     'cough',
     'skin rashes',
-    ],
+],
 
 'Epilepsy': [
     'sudden jerks in arms',
@@ -748,13 +748,13 @@ disease_symptoms = {
     'stiffness in muscles',
     'twitching or trembling of muscles',
     'psychic symptoms',
-    ],
+],
 
 'Erectile Dysfunction': [
     'trouble in getting an erection',
     'difficulty in keeping an erection',
     'reduced sexual desire',
-    ],
+],
 
 'Evans Syndrome': [
     'bleeding can happen from any part of the body like nose (epistaxis), oral cavity, eyes, hair follicles, etc.',
@@ -770,7 +770,7 @@ disease_symptoms = {
     'recurrent infections',
     'weight loss',
     'emotional distress and irritability',
-    ],
+],
 
 # Diseases starting with "D"
 
@@ -785,7 +785,7 @@ disease_symptoms = {
     'nausea',
     'skin on neck or under your arms may have dark-colored patches',
     'confusion, poor judgment, or trouble in concentration may also happen',
-    ],
+],
 
 'Fibroid': [
     'heavy menstrual cycles',
@@ -796,7 +796,7 @@ disease_symptoms = {
     'anemia due to blood loss',
     'pain in legs and back',
     'infertility may occur in women due to changes in the lining of the uterus',
-    ],
+],
 
 'Fibromyalgia': [
     'constant dull ache that has',
@@ -810,7 +810,7 @@ disease_symptoms = {
     'headache',
     'depression',
     'pain in the lower abdomen',
-    ],
+],
 
 'Flu': [
     'fever',
@@ -821,7 +821,7 @@ disease_symptoms = {
     'running nose or nasal congestion',
     'fever with chills',
     'weakness and fatigue',
-    ],
+],
 
 'Food Poisoning': [
     'abdominal pain',
@@ -832,13 +832,13 @@ disease_symptoms = {
     'fever and Chills',
     'loss of appetite',
     'dehydration',
-    ],
+],
 
 'Frozen Shoulder': [
     'pain and stiffness which makes movement restricted',
     'dull and hurting pain in the shoulder',
     'sensation in the upper arm',
-    ],
+],
 
 'Fungal Aspergillosis': [
     'fever',
@@ -850,7 +850,7 @@ disease_symptoms = {
     'phlegm',
     'shortness of breath',
     'skin sores',
-    ],
+],
 
 'Fungal Candidiasis': [
     'redness in the mouth area',
@@ -864,7 +864,7 @@ disease_symptoms = {
     'red rash on the penis',
     'itching on the penis',
     'burning sensation on the penis',
-    ],
+],
 
 # Diseases starting with "G"
 
@@ -881,7 +881,7 @@ disease_symptoms = {
     'Fever',
     'Temperature may lower down than 96.8°F',
     'Dizziness',
-    ],
+],
 
 'Gastroparesis': [
     'Heartburn',
@@ -893,7 +893,7 @@ disease_symptoms = {
     'Feeling of fullness after eating a few bites',
     'Poor appetite',
     'Weight loss and malnutrition',
-    ],
+],
 
 'Genital Herpes': [
     'Swelling in lymph nodes',
@@ -904,14 +904,14 @@ disease_symptoms = {
     'Sores can form on the cervix, external genitals, and vaginal areas in females',
     'Sores formation occurs on the scrotum, penis, thighs, and urethra in males',
     'Sores can form on the anus, mouth, and buttocks in both males and females',
-    ],
+],
 
 'Goitre': [
     'Swelling in the neck',
     'Difficulty breathing or swallowing',
     'Coughing and hoarseness',
     'Tight feeling in the throat',
-    ],
+],
 
 'Gonorrhea': [
     'The first noticeable symptom in men is often a burning or painful sensation during urination and greater urgency of urination',
@@ -929,7 +929,7 @@ disease_symptoms = {
     'Pain in the lower abdominal region',
     'Fever and general tiredness',
     'Nausea and vomiting',
-    ],
+],
 
 'Gout': [
     'Pain',
@@ -945,7 +945,7 @@ disease_symptoms = {
     'Unstable pain in joints',
     'Abnormal complexion',
     'Appearance of patches',
-    ],
+],
     
 # Diseases starting with "H"
 
@@ -955,7 +955,7 @@ disease_symptoms = {
     'hair loss in patches',
     'scarring',
     'excessive hair fall daily',
-    ],
+],
 
 'Bad Breath (Halitosis)': [
     'pain in teeth',
@@ -964,7 +964,7 @@ disease_symptoms = {
     'plaque between teeth',
     'dryness of mouth',
     'difficulty in swallowing food',
-    ],
+],
 
 'Hearing Loss': [
     'difficulty in hearing others clearly and error in hearing what they say, especially in a group',
@@ -975,7 +975,7 @@ disease_symptoms = {
     'avoiding some social situations',
     'ringing, roaring, or hissing sounds are heard in the ears, known as tinnitus',
     'feeling as if there is water or pressure in the ear',
-    ],
+],
 
 'Heartburn': [
     'a burning pain in the chest that usually occurs after eating or may occur at night',
@@ -986,7 +986,7 @@ disease_symptoms = {
     'sore throat',
     'persistent nausea and vomiting',
     'regurgitation of the foods and liquids with a taste of acid in the throat',
-    ],
+],
 
 'Heart Diseases': [
     'discomfort and pain in breastbone, arm, and chest',
@@ -1003,7 +1003,7 @@ disease_symptoms = {
     'white sputum in cough',
     'shortness of breath after normal activities',
     'pressure in the upper back',
-    ],
+],
 
 'Hemorrhoids (Piles)': [
     'bleeding while going to the toilet',
@@ -1016,7 +1016,7 @@ disease_symptoms = {
     'blood clot',
     'anal pain',
     'anal bulging',
-    ],
+],
 
 'Henoch-Schonlein Purpura (HSP)': [
     'reddish-purple colored spots',
@@ -1029,7 +1029,7 @@ disease_symptoms = {
     'abdominal pain',
     'bloody stools',
     'stomach ache',
-    ],
+],
 
 'Hepatitis B': [
     'fever',
@@ -1043,7 +1043,7 @@ disease_symptoms = {
     'pale, clay-colored stool',
     'hives',
     'loss of appetite',
-    ],
+],
 
 'Inguinal Hernia': [
     'bulge near the pubic bone',
@@ -1052,20 +1052,20 @@ disease_symptoms = {
     'heavy sensation in your groin',
     'pain and swelling around the testicles when intestines descend into the scrotum',
     'weakness or pressure in the groin area',
-    ],
+],
 
 'Umbilical Hernia': [
     'soft swelling near the umbilicus',
     'bulge near the umbilicus',
     'swelling in umbilicus',
     'bulge in umbilicus',
-    ],
+],
 
 'Femoral Hernia': [
     'pain',
     'discomfort',
     'bulge may be visible in the groin area',
-    ],
+],
 
 'Diaphragmatic Hernia': [
     'pain',
@@ -1075,20 +1075,20 @@ disease_symptoms = {
     'heartburn',
     'belching',
     'chest pain',
-    ],
+],
 
 'Hiatal Hernia': [
     'heartburn',
     'belching',
     'chest pain',
     'nausea',
-    ],
+],
 
 'Incisional Hernia': [
     'a bulge or protrusion',
     'pain',
     'discomfort',
-    ],
+],
 
 'Herpes Zoster (Shingles)': [
     'fluid-filled blisters follow rash which then break open and crust over',
@@ -1111,21 +1111,21 @@ disease_symptoms = {
     'loss of eye motion',
     'taste Problems',
     'vision Problem',
-    ],
+],
 
 'Cholesterol Problems': [
     'angina',
     'heart attack',
     'stroke',
     'pain on walking',
-    ],
+],
 
 'Hypertension (High Blood Pressure)': [
     'headache (at the back of the head in the morning)',
     'vertigo',
     'tinnitus',
     'fainting episodes',
-    ],
+],
 
 'Hyperthyroidism': [
     'increased appetite',
@@ -1141,7 +1141,7 @@ disease_symptoms = {
     'itching',
     'weight loss',
     'cold intolerance',
-    ],
+],
 
 'Hypocortisolism (Addison\'s Disease)': [
     'weakness in muscles',
@@ -1158,7 +1158,7 @@ disease_symptoms = {
     'sexual dysfunction in females',
     'weight loss',
     'skin darkening (hyperpigmentation)',
-    ],
+],
 
 'Hyponatremia': [
     'headache',
@@ -1174,7 +1174,7 @@ disease_symptoms = {
     'restlessness',
     'irritability',
     'coma',
-    ],
+],
 
 'Hypotension (Low Blood Pressure)': [
     'faintness',
@@ -1192,7 +1192,7 @@ disease_symptoms = {
     'shallow breathing',
     'rapid pulse rate',
     'weak pulse rate',
-    ],
+],
 
 'Hypothyroidism': [
     'weakness and fatigue',
@@ -1202,7 +1202,7 @@ disease_symptoms = {
     'frequent muscle cramps',
     'sudden weight gain',
     'cold intolerance',
-    ],
+],
 
     # Diseases starting with "I"
 
@@ -1215,7 +1215,7 @@ disease_symptoms = {
     'red spots',
     'flat spots',
     'pinhead spots on legs',
-    ],
+],
 
 'Indigestion': [
     'loss of appetite',
@@ -1230,7 +1230,7 @@ disease_symptoms = {
     'vomiting',
     'bloody stools',
     'diarrhea',
-    ],
+],
 
 'Infertility in Women': [
     'heavy or light bleeding during periods',
@@ -1242,7 +1242,7 @@ disease_symptoms = {
     'excessive hair growth (chest, lips, chin)',
     'hair loss',
     'weight gain',
-    ],
+],
 
 'Infertility in Men': [
     'changes in sexual desires',
@@ -1251,7 +1251,7 @@ disease_symptoms = {
     'problems with erections and ejaculations',
     'hair loss',
     'weight gain',
-    ],
+],
 
 'Insomnia': [
     'difficulty falling asleep',
@@ -1263,7 +1263,7 @@ disease_symptoms = {
     'severe headaches',
     'dDifficulty concentrating on tasks',
     'gastrointestinal distress',
-    ],
+],
 
 'Irritable Bowel Syndrome (IBS)': [
     'abdominal pain and discomfort',
@@ -1273,7 +1273,7 @@ disease_symptoms = {
     'constipation',
     'bloating',
     'cramping',
-    ],
+],
 
 'Ischemic Heart Disease': [
     'acute and mild chest pain',
@@ -1287,8 +1287,75 @@ disease_symptoms = {
     'swelling in feet and ankles',
     'heart failure',
     'sudden death',
-    ],
+],
 
+# Diseases starting with "J"
+
+'Jaundice': [
+    'Yellowish discoloration of skin and white part of the eye',
+    'Loss of appetite',
+    'Weakness',
+    'Fatigue',
+    'Indigestion',
+    'Drowsiness',
+    'Burning sensation in the body',
+],
+
+'Joint Pain': [
+    'Swelling in joints',
+    'Redness in joints',
+    'Tenderness in joints',
+    'Stiffness in joints',
+    'Decreased strength in the muscles and feeling of weakness in the body',
+    'Difficulty in walking, leading to severe pain in legs and feet',
+    'Difficulty in getting up',
+],
+
+'Juvenile Rheumatoid Arthritis (JRA)': [
+    'Joint pain',
+    'Limps in the morning',
+    'Limps after sleep',
+    'Swelling',
+    'Joint swelling',
+    'Swollen knees',
+    'Stiffness',
+],
+
+# Diseases starting with "K"
+
+'Kidney Failure': [
+    'Tiredness',
+    'Headache',
+    'Lack of concentration',
+    'Nausea and vomiting',
+    'Frequency and urgency of urination',
+    'Swelling in legs, feet, and ankles',
+],
+
+'Kidney Stones': [
+    'Sudden severe pain that occurs when urine flow is blocked',
+    'Stone moving in the urinary tract',
+    'Irritation in the urinary tract',
+    'Stomach ache',
+    'Abdominal pain',
+    'Lower abdominal pain',
+    'Sharp pain in the lower back',
+    'Cramping pain in the lower back',
+    'Sharp pain in the pelvic area',
+    'Cramping pain in the pelvic area',
+    'Abdomen spreading to the groin',
+    'Nausea',
+    'Vomiting',
+    'Burning sensation',
+    'Frequent urge to urinate',
+    'Cloudy urine',
+    'Urine with a foul smell',
+    'Fever',
+    'Chills',
+],
+
+# Diseases starting with "L"
+    
     # Add more diseases and symptoms here
 }
 
