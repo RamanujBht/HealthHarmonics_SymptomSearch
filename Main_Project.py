@@ -864,6 +864,87 @@ disease_symptoms = {
     'burning sensation on the penis',
     ],
 
+# Diseases starting with "G"
+
+'Gangrene': [
+    'Discoloration of skin like from pale to black, purple, blue, bronze, and red',
+    'A clear difference is visible between healthy and damaged skin',
+    'Intense pain',
+    'Numbness',
+    'Foul-smelling discharge from the wound',
+    'Painful and swollen tissues',
+    'Low blood pressure',
+    'Increased heart rate',
+    'Shortness of breath',
+    'Fever',
+    'Temperature may lower down than 96.8°F',
+    'Dizziness',
+    ],
+
+'Gastroparesis': [
+    'Heartburn',
+    'Acid reflux',
+    'Abdominal pain',
+    'Bloating',
+    'Vomiting undigested food',
+    'Nausea',
+    'Feeling of fullness after eating a few bites',
+    'Poor appetite',
+    'Weight loss and malnutrition',
+    ],
+
+'Genital Herpes': [
+    'Swelling in lymph nodes',
+    'Headache',
+    'Fever',
+    'Muscle aches',
+    'Pain in the genital areas',
+    'Sores can form on the cervix, external genitals, and vaginal areas in females',
+    'Sores formation occurs on the scrotum, penis, thighs, and urethra in males',
+    'Sores can form on the anus, mouth, and buttocks in both males and females',
+    ],
+
+'Goitre': [
+    'Swelling in the neck',
+    'Difficulty breathing or swallowing',
+    'Coughing and hoarseness',
+    'Tight feeling in the throat',
+    ],
+
+'Gonorrhea': [
+    'The first noticeable symptom in men is often a burning or painful sensation during urination and greater urgency of urination',
+    'A pus-like discharge from the penis (white, yellow, beige, or greenish) or anal discharge and other symptoms like itching, pain, bleeding, or pain with passing bowel movements',
+    'Swelling or redness occurs at the opening of the penis',
+    'Testicles are painful and swollen',
+    'Sore throat (rare)',
+    'Pinkeye (conjunctivitis) (rare)',
+    'Painful or frequent urge to urinate with a burning sensation',
+    'Abnormal yellow or green vaginal discharge',
+    'Painful sexual intercourse accompanied by abnormal vaginal bleeding or irregular menstrual bleeding',
+    'Anal itching, discomfort, bleeding, or discharge',
+    'Genital itching',
+    'Swollen and painful glands at the opening of the vagina (Bartholin glands)',
+    'Pain in the lower abdominal region',
+    'Fever and general tiredness',
+    'Nausea and vomiting',
+    ],
+
+'Gout': [
+    'Pain',
+    'Waking up early in the morning with unbearable pain',
+    'Inability to put on socks and shoes',
+    'Excess or absence of perspiration',
+    'Severe pain on injury',
+    'Laxity in joints',
+    'Appearance of boils',
+    'Heaviness',
+    'Numbness',
+    'Itching',
+    'Unstable pain in joints',
+    'Abnormal complexion',
+    'Appearance of patches',
+    ],
+
     # Add more diseases and symptoms here
 }
 
