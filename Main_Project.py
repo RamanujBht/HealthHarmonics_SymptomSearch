@@ -1,5 +1,6 @@
 # Sample dictionary of diseases and their symptoms
 disease_symptoms = {
+    # Diseases starting with "A"
     'Abnormal Heart Rhythms (Arrhythmia)': [
         'Shortness of breath',
         'Chest pain',
@@ -287,6 +288,105 @@ disease_symptoms = {
         'Fatigue',
         'Joint pain',
         'Malaise',
+
+    # Diseases starting with "B"
+    'Back Pain': [
+        'Weight loss',
+        'Fever',
+        'Inflammation or swelling on the back',
+        'Pain down the legs',
+        'Pain that reaches below the knees',
+        'Difficulty urinating',
+        'Recent injury to the back',
+        'Back pain which causes difficulty in lying down',
+        'Numbness around the genitals',
+        'Numbness around the buttocks',
+        'Numbness around the anus',
+    ],
+    'Bacterial Vaginosis': [
+        'Vaginal discharge',
+        'Vaginal odor',
+        'Itching around the vagina',
+        'Burning sensation while urination',
+    ],
+    'Baldness': [
+        'Hair loss in patches',
+        'Dandruff',
+        'Skin lesions',
+        'Scarring',
+        'Thinning of hair',
+    ],
+    'Bedwetting': [
+        'Passing urine during day or night sleep',
+    ],
+    'Bell\'s Palsy': [
+        'Facial paralysis and no control over facial muscles',
+        'Unable to taste or loses sense of taste',
+        'Feeling weakness of the muscles and nerves in the facial region',
+        'Difficulty in closing eyes',
+        'Pain in and outside ears',
+        'Numbness of the jaws, forehead, cheek, mouth region',
+        'Blurred view',
+        'In an attempt to raise eyebrows, the forehead region affected by Bell\'s palsy remains flat',
+        'Smiling distorts the face of the patient',
+    ],
+    'Benign Prostatic Hyperplasia (BPH)': [
+        'Urinary frequency',
+        'Urinary urgency',
+        'Hesitancy',
+        'Incomplete bladder emptying',
+        'Straining',
+        'Disturbed sleep at night',
+        'Decreased force of stream',
+        'Dribbling',
+    ],
+    'Wet Beriberi': [
+        'Increase in heart rate',
+        'Swollen lower legs',
+        'Waking up short of breath',
+        'Shortness of breath during physical activity',
+    ],
+    'Dry Beriberi': [
+        'Paralysis',
+        'Involuntary eye movement',
+        'Vomiting',
+        'Difficulty in breathing',
+        'Pain',
+        'Mental confusion',
+        'Tingling in feet and hands',
+        'Decreased muscle function',
+    ],
+    'Bipolar Disorder': [
+        # Symptoms can vary based on episodes (mania, hypomania, depression, mixed episodes)
+        # Customize symptoms for each episode
+    ],
+    'Blood Clotting': [
+        'Swelling',
+        'Pain',
+        'Tenderness',
+        'Redness',
+        'Warm sensation',
+        # Symptoms vary based on clot location
+    ],
+    'Blood Disorders': [
+        'Blood clot (Phlebitis)',
+        'Skin rashes caused by few platelets (Petechiae)',
+        'Blood blisters in mouth',
+        'Swelling of lymph nodes due to blood cancer like leukemia, lymphomas',
+        'Yellowish skin (Pallor) caused by anemia',
+        'Eating of ice, dirt, clay (Pica) due to iron deficiency anemia',
+    ],
+    'Bronchitis': [
+        'Constant cough with mucus',
+        'Difficulty in breathing',
+        'Fever',
+        'Wheezing',
+        'Chest discomfort',
+    ],
+    'Bulged Disc': [
+        'Pain in arms and legs',
+        'Numbness',
+        'Weakness',
     ],
     # Add more diseases and symptoms here
 }
