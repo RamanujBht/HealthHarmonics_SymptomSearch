@@ -2178,37 +2178,55 @@ disease_symptoms = {
 
 
 # User-entered symptom
-user_symptom = input("Enter a symptom: ")
+user_symptom = input("Enter a common symptom: ")
 user_symptom = user_symptom.lower()
-
+asked = []
+asked.append(user_symptom)
 # Create a list of unique diseases based on the symptom
 unique_diseases = []
 
-for disease, symptoms in disease_symptoms.items():
+for x, symptoms in disease_symptoms.items():
     if user_symptom in symptoms:
-        unique_diseases.append(disease)
+        unique_diseases.append(x)
 
-# Ask follow-up questions for each unique disease
-for disease in unique_diseases:
-    print(f"Symptom: {user_symptom} is associated with {disease}.")
 
-    # Display the other symptoms for the disease
-    other_symptoms = ", ".join(symptoms)
-    print(f"Other symptoms for {disease}: {other_symptoms}")
+num_diseases = len(unique_diseases)
+possible_symptom = []
 
-    # Ask if the user has the rest of the symptoms to confirm the disease
-    confirm_symptoms = input(f"Do you have the rest of the symptoms for {disease}? (yes/no): ").lower()
-    
-    if confirm_symptoms == 'yes':
-        print(f"You are confirmed to have {disease}.")
-    else:
-        print(f"It is possible that you might have {disease}.")
+num_disease = 0
+print(unique_diseases)
+while num_diseases != 0:
 
-# Example follow-up questions for each disease (customize as needed)
-if 'Abnormal Heart Rhythms (Arrhythmia)' in unique_diseases:
-    print("Ask follow-up questions for Abnormal Heart Rhythms (Arrhythmia).")
-    # Add more specific questions related to this disease
-if 'Acidity' in unique_diseases:
-    print("Ask follow-up questions for Acidity.")
-    # Add more specific questions related to this disease
-# Add more follow-up questions for other diseases as needed
+    disease = unique_diseases[num_disease]
+    test_symptoms = []
+    score = 0
+    count = 0
+    num_test = 0
+    for test in disease_symptoms[disease]:
+        test_symptoms.append(test)
+    while count != 3:
+        if test_symptoms[num_test] in asked:
+            num_test += 1
+            continue
+        user_reply = input("Do you have " + test_symptoms[num_test] + "?(yes/no): ")
+        user_reply = user_reply.lower()
+        asked.append(test_symptoms[num_test])
+        if user_reply == 'yes':
+            count = count + 1
+            score = score + 1
+            num_test = num_test + 1
+        elif user_reply == 'no':
+            count = count + 1
+            num_test = num_test + 1
+        else:
+            print('Invalid Input, please enter a YES or NO')
+            continue
+        if count == 3:
+            test_symptoms = []
+            num_disease += 1
+            num_diseases -= 1
+            if score == 3:
+                possible_symptom.append(disease)
+
+
+
