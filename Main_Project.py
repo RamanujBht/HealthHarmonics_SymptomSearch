@@ -979,7 +979,7 @@ disease_symptoms = {
 
 'Heartburn': [
     'a burning pain in the chest that usually occurs after eating or may occur at night',
-    'pain;,
+    'pain',
     'pain that worsens on lying down or bending down',
     'difficulty in swallowing',
     'chronic cough',
@@ -1983,6 +1983,7 @@ disease_symptoms = {
         'fatigue – mental and physical',
         'fever',
         'weight loss',
+    ],
 
     # Diseases starting with "T"
 
@@ -2071,10 +2072,9 @@ disease_symptoms = {
         'excessive weakness',
         'tremors in hands & feet',
         'intestinal bleeding',
-    ]
+    ],
 
     # Diseases starting with "U"
-
 
     'Ulcerative Colitis': [
         'abdominal pain and cramping',
@@ -2087,7 +2087,6 @@ disease_symptoms = {
         'mucus in the stool',
         'sharp rectal pain',
     ],
-
     'Urethritis in Men': [
         'pain and burning sensation while urinating',
         'blood in urine or semen',
@@ -2227,6 +2226,5 @@ while num_diseases != 0:
             num_diseases -= 1
             if score == 3:
                 possible_symptom.append(disease)
-
 
 
