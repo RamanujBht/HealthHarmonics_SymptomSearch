@@ -1963,8 +1963,28 @@ disease_symptoms = {
 
     # Diseases starting with "R"
 
+    'Receding Gums': [
+        'Bleeding after brushing',
+        'Bad breath',
+        'Loose teeth',
+        'Exposed tooth roots',
+        'Swollen gums',
+        'Sensitivity to heat, cold, sweets',
+        'Pain and discomfort near the gum line',
+    ],
 
-    
+    'Rheumatoid Arthritis': [
+        'Tender and swollen joints',
+        'Warm or sometimes numbness of joints',
+        'Morning stiffness that may last for a couple of hours',
+        'Firm bumps under the skin on your arms',
+        'Fatigue – mental and physical',
+        'Fever',
+        'Weight loss',
+
+    # Diseases starting with "S"
+
+        
     
     # Add more diseases and symptoms here
 }
