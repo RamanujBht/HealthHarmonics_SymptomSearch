@@ -710,7 +710,7 @@ disease_symptoms = {
     'oozing or crusting',
     'recurring rashes',
     'dark-colored patches of skin',
-],
+    ],
 
 'Edema': [
     'puffiness or swelling of tissues under the skin',
@@ -719,7 +719,7 @@ disease_symptoms = {
     'shortness of breath',
     'chest pain',
     'difficulty in breathing',
-],
+    ],
 
 'Endometriosis': [
     'dysmenorrhea (Painful periods): Pelvic pain and cramping starting a few days before the menstrual period and may also include lower back and abdominal pain',
@@ -727,7 +727,7 @@ disease_symptoms = {
     'pain with urination and bowel movements: Pain during passing urine or bowel movements',
     'excessive Bleeding: Heavy bleeding (menorrhagia) and bleeding between periods (menometrorrhagia)',
     'infertility: One of the main reasons for infertility',
-],
+    ],
 
 'Eosinophilia': [
     'frequent wheezing',
@@ -737,7 +737,7 @@ disease_symptoms = {
     'fever',
     'cough',
     'skin rashes',
-],
+    ],
 
 'Epilepsy': [
     'sudden jerks in arms',
@@ -746,13 +746,13 @@ disease_symptoms = {
     'stiffness in muscles',
     'twitching or trembling of muscles',
     'psychic symptoms',
-],
+    ],
 
 'Erectile Dysfunction': [
     'trouble in getting an erection',
     'difficulty in keeping an erection',
     'reduced sexual desire',
-],
+    ],
 
 'Evans Syndrome': [
     'bleeding can happen from any part of the body like nose (epistaxis), oral cavity, eyes, hair follicles, etc.',
@@ -768,7 +768,102 @@ disease_symptoms = {
     'recurrent infections',
     'weight loss',
     'emotional distress and irritability',
-],
+    ],
+
+# Diseases starting with "D"
+
+'Fatty Liver': [
+    'pain in the center or right upper part of the belly',
+    'feeling of tiredness',
+    'loss of weight or poor appetite',
+    'weakness',
+    'enlarged spleen',
+    'abdominal swelling (ascites)',
+    'yellowing of the skin and eyes (jaundice)',
+    'nausea',
+    'skin on neck or under your arms may have dark-colored patches',
+    'confusion, poor judgment, or trouble in concentration may also happen',
+    ],
+
+'Fibroid': [
+    'heavy menstrual cycles',
+    'complications in pregnancy',
+    'pain in pelvic area',
+    'frequent urination',
+    'pressure imposed on the rectum so problems of constipation can occur',
+    'anemia due to blood loss',
+    'pain in legs and back',
+    'infertility may occur in women due to changes in the lining of the uterus',
+    ],
+
+'Fibromyalgia': [
+    'constant dull ache that has',
+    'pain on both sides of the body',
+    'pain above waist',
+    'pain below waist',
+    'tiredness',
+    'insomnia',
+    'fibro fog',
+    'adhd',
+    'headache',
+    'depression',
+    'pain in the lower abdomen',
+    ],
+
+'Flu': [
+    'fever',
+    'high fever',
+    'body aches especially in arms, legs, and back',
+    'coughing',
+    'sore throat',
+    'running nose or nasal congestion',
+    'fever with chills',
+    'weakness and fatigue',
+    ],
+
+'Food Poisoning': [
+    'abdominal pain',
+    'diarrhea',
+    'bloody diarrhea',
+    'vomiting',
+    'nausea',
+    'fever and Chills',
+    'loss of appetite',
+    'dehydration',
+    ],
+
+'Frozen Shoulder': [
+    'pain and stiffness which makes movement restricted',
+    'dull and hurting pain in the shoulder',
+    'sensation in the upper arm',
+    ],
+
+'Fungal Aspergillosis': [
+    'fever',
+    'cough with blood',
+    'wheezing',
+    'weight loss',
+    'chills',
+    'chest pain',
+    'phlegm',
+    'shortness of breath',
+    'skin sores',
+    ],
+
+'Fungal Candidiasis': [
+    'redness in the mouth area',
+    'difficulty in swallowing',
+    'sore throat',
+    'cracks at the corner of the mouth',
+    'itching in the vaginal area',
+    'redness and soreness in the vaginal area',
+    'vaginal discharge which has the appearance like cottage cheese',
+    'pain during sexual intercourse',
+    'red rash on the penis',
+    'itching on the penis',
+    'burning sensation on the penis',
+    ],
+
     # Add more diseases and symptoms here
 }
 
