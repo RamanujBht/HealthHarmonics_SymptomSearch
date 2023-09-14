@@ -1717,9 +1717,254 @@ disease_symptoms = {
 
     # Diseases starting with "P"
 
+        "Paget's Disease": [
+        'Hip pain',
+        'Abnormality in skull',
+        'Hearing loss',
+        'Headaches',
+        'Pain',
+        'Tingling',
+        'Numbness in arms',
+        'Numbness in legs',
+        'Bending bowlegged',
+        'Osteoarthritis in knee',
+        'Osteoarthritis in hip',
+    ],
+
+    'Pelvic Inflammatory Disease': [
+        'Fever',
+        'Painful intercourse',
+        'Abnormal menstrual bleeding',
+        'Heavy whitish discharge with unpleasant odor',
+        'Painful urination',
+        'Lower abdominal and back pain',
+    ],
+
+    "Peyronie's Disease": [
+        'Fibrous plaques',
+        'Scars under the skin of the penis',
+        'Bent penis',
+        'Problem in erection',
+        'Erectile dysfunction',
+        'Penis shortening',
+        'Penile pain',
+        'Difficulty in sexual intercourse',
+    ],
+
+    'Piles': [
+        'Bleeding on defecation: During or after defecation, bleeding occurs.',
+        'Prolapse of pile mass: Usually painless, seen in larger hemorrhoids during defecation.',
+        'Pain and itching in the anal region.',
+        'Mucus discharge: Can cause irritation and pruritus.',
+        'Constipation',
+    ],
+
+    'Pleurisy': [
+        'Chest pain',
+        'Cough',
+        'Shortness of breath',
+        'Fever',
+        'Shoulder pain',
+        'Muscle ache',
+    ],
+
+    'Pneumonia': [
+        'Fever',
+        'Cough',
+        'Shortness of breath',
+        'Fatigue',
+        'Sun-sensitive rash',
+        'Dry eyes',
+        'Dryness of mouth',
+        'Hair loss',
+        'Oral ulcers',
+    ],
+
+    'Polycystic Ovarian Disease (PCOD)': [
+        'Excessive weight gain',
+        'Acne and pimples',
+        'Extra growth of facial and body hair',
+        'Thinning of scalp hair',
+        'Depression and anxiety',
+        'Infertility',
+        'Deep voice',
+        'Breast size decreases',
+        'Pelvic pain',
+        'Irregular menstruation',
+    ],
+
+    'Post-Traumatic Stress Disorder (PTSD)': [
+        'Avoiding reminders of the event',
+        'Avoiding discussions or thoughts about the event',
+        'Experiencing flashbacks like reliving the trauma',
+        'Distressing, recurring memories of the event',
+        'Physical or emotional distress triggered by reminders',
+        'Nightmares related to the event',
+        'Feeling hopeless about the future',
+        'Negative thoughts about self and others',
+        'Memory problems, including forgetting details of the event',
+        'Feeling emotionally distant from loved ones',
+        'Struggles in maintaining close relationships',
+        'Hypervigilance for danger',
+        'Easily startled or anxious',
+        'Excessive alcohol consumption or reckless driving',
+        'Difficulty concentrating',
+        'Sleep disturbances',
+    ],
+
+    'Premature Ejaculation': [
+        'Uncontrolled ejaculation',
+        'Ejaculation occurs shortly before or after intercourse',
+        'Ejaculation occurs with minimal sexual stimulation',
+    ],
+
+    'Premenstrual Syndrome (PMS)': [
+        'Severe abdominal pain or cramps',
+        'Abdominal bloating',
+        'Indigestion',
+        'Constipation or diarrhea',
+        'Tender and swollen breasts',
+        'Increased appetite and food craving',
+        'Mood swings',
+        'Depression',
+        'Irritability',
+        'Headache',
+        'Difficulty in concentration',
+        'Memory lapse',
+        'Insomnia or excessive sleep',
+        'Increased sensitivity to light, sound, and touch',
+    ],
+
+    'Primary Polycythemia Vera': [
+        'Headache',
+        'Seeing blind spots and dark spots that appear for a fraction of a second',
+        'Double vision',
+        'Sweating',
+        'Itching',
+        'Redness of the face',
+        'Dizziness',
+        'Weakness',
+        'Shortness of breath',
+        'Weight loss',
+        'Burning sensation of the feet',
+        'Tingling sensation in the body',
+        'Inflammations',
+        'Swelling in joints',
+        'Angina or chest pain',
+    ],
+
+    'Primary Sclerosing Cholangitis': [
+        'Pain in the right hypochondriac region',
+        'Acidity',
+        'Itching',
+        'Splenomegaly (enlarged spleen)',
+        'Hepatomegaly (enlarged liver)',
+        'Dark urine (due to obstructed bilirubin)',
+        'Dark stool (absence of stercobilin)',
+        'Yellowness of skin, eyes, nails, etc.',
+        'Portal hypertension',
+        'Fever',
+        'Chills',
+        'Indigestion',
+        'Malabsorption',
+        'Weakness',
+    ],
+
+    'Progressive Supranuclear Palsy': [
+        'Difficulty in balancing the body while moving',
+        'Difficulty in having proper eye movement like looking downward or upward',
+        'Unable to focus properly',
+        'Swallowing difficulty',
+        'Unclear speech',
+        'Falling down frequently due to problems in balancing and vision',
+        'Body stiffness',
+        'Collision with objects frequently',
+        'Enhanced sensitivity when exposed to light',
+        'Anxiety',
+        'Depression',
+        'Disturbances while sleeping',
+        'Muscular rigidity of the facial muscles',
+        'Constipation',
+        'Urinary incontinence',
+        'Problem in decision-making and problem-solving',
+        'Inability to keep good memory',
+        'Impulsive behavior',
+        'Lack of interest even in pleasurable activities',
+    ],
+
+    'Prolactinoma': [
+        'Decreases bone density',
+        'Lack of interest in sexual activity',
+        'Headaches and impaired vision',
+        'Low production of other hormones by the pituitary gland',
+        'Infertility',
+        'Painful intercourse due to vaginal dryness',
+        'Acne and excessive face and body hair',
+        'Uncommonly, enlarged breast',
+    ],
+
+    'Prosopagnosia': [
+        'Waiting for other people to wave first when meeting at certain gatherings',
+        'Approaching completely stranger persons thinking that they are someone they know while being certain about their identification',
+        'Not able to recognize people they are familiar with like close relatives, neighbors, friends, or family, mostly when seeing them in different contexts',
+        'Becoming withdrawn or clingy in public places',
+        'Difficulty in making friends',
+        'Trouble following character plots while watching a show or movie',
+        'Confident at home but withdrawn in public places or gatherings',
+    ],
+
+    'Prostatitis': [
+        'Frequent urge for urination',
+        'Burning sensation while urinating',
+        'Pain during ejaculation',
+        'Bleeding or pus in urine',
+        'Pain in genitals, pelvis, lower back, and buttocks',
+        'Fever and chills occur in severe cases',
+        'Pain on the tip of the penis',
+    ],
+
+    'Psoriasis': [
+        'Red color patches',
+        'Silvery scales',
+        'Thickened nails',
+        'Pitted nails',
+        'Ridged nails',
+        'Cracked skin',
+        'Dry skin',
+        'Swollen joints',
+        'Stiff joints',
+    ],
+
+    'Psychosis': [
+        'Depression',
+        'Anxiety',
+        'Lack of concentration',
+        'Cut off from family and friends',
+        'Hallucinations',
+        'Suicidal thoughts',
+        'Sleeping problems',
+        'Lack of spontaneity',
+        'Disorganized speech',
+        'Wearing odd clothes',
+        'Problems in performing daily activities like cooking or self-care',
+    ],
+
+    'Pyorrhoea': [
+        'Loosening of teeth',
+        'Bleeding and redness of gums',
+        'Inflammation of gums',
+        'Gum pockets',
+        'Pus discharge',
+        'Bad breath',
+        'Mouth ulcers',
+        'Receding gums',
+        'Bone erosion',
+    ],
+
+    # Diseases starting with "R"
+
+
     
-
-
     
     # Add more diseases and symptoms here
 }
