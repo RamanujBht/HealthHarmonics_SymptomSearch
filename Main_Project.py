@@ -430,6 +430,7 @@ disease_symptoms = {
         'indigestion problems or trouble swallowing.',
         'unexplained weight loss',
         'skin changes',
+        'stomach ache',
     ],
     'Candidiasis': [
         'redness',
@@ -515,6 +516,7 @@ disease_symptoms = {
         'indigestion',
         'heaviness of body',
         'loss of appetite',
+        'stomach ache',
         'dry and difficult bowel movement',
         'feeling uncomfortable',
     ],
@@ -1200,6 +1202,91 @@ disease_symptoms = {
     'frequent muscle cramps',
     'sudden weight gain',
     'cold intolerance',
+    ],
+
+    # Diseases starting with "I"
+
+'Idiopathic Thrombocytopenic Purpura (ITP)': [
+    'blotches and bruises',
+    'bleeding from gums or nose',
+    'longer bleeding periods',
+    'blood in urine',
+    'blood in stool',
+    'red spots',
+    'flat spots',
+    'pinhead spots on legs',
+    ],
+
+'Indigestion': [
+    'loss of appetite',
+    'discomfort and fullness in the upper part of the abdomen',
+    'burning sensation in the chest',
+    'nausea',
+    'stomach ache',
+    'abdominal burning',
+    'bloating and burping',
+    'fatigue',
+    'constipation',
+    'vomiting',
+    'bloody stools',
+    'diarrhea',
+    ],
+
+'Infertility in Women': [
+    'heavy or light bleeding during periods',
+    'irregular or absent menstrual cycles',
+    'pelvic pain',
+    'back pain',
+    'abdominal cramps',
+    'pain during sex',
+    'excessive hair growth (chest, lips, chin)',
+    'hair loss',
+    'weight gain',
+    ],
+
+'Infertility in Men': [
+    'changes in sexual desires',
+    'lump formation in testicles',
+    'swelling in testicles',
+    'problems with erections and ejaculations',
+    'hair loss',
+    'weight gain',
+    ],
+
+'Insomnia': [
+    'difficulty falling asleep',
+    'short sleep duration at night',
+    'waking up early',
+    'excessive daytime sleepiness and tiredness',
+    'irritability',
+    'depression',
+    'severe headaches',
+    'dDifficulty concentrating on tasks',
+    'gastrointestinal distress',
+    ],
+
+'Irritable Bowel Syndrome (IBS)': [
+    'abdominal pain and discomfort',
+    'abdominal contractions that worsen after eating',
+    'feeling of unclear bowel movements',
+    'chronic diarrhea',
+    'constipation',
+    'bloating',
+    'cramping',
+    ],
+
+'Ischemic Heart Disease': [
+    'acute and mild chest pain',
+    'arrhythmia',
+    'weakness',
+    'loss of appetite',
+    'palpitations',
+    'shortness of breath',
+    'fatigue',
+    'cough',
+    'swelling in feet and ankles',
+    'heart failure',
+    'sudden death',
     ],
 
     # Add more diseases and symptoms here
