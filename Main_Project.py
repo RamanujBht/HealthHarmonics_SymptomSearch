@@ -549,7 +549,7 @@ disease_symptoms = {
         'back or side pain',
     ],
     'Chronic kidney disease': [
-        'urination at small intervals in larger amount than normal with pale color.',
+        'urination at small intervals in larger amounts than normal with pale color.',
         'less urination than usual with dark color.',
         'blood in urine.',
         'swelling in face, hands, feet, legs, and ankles.',
@@ -699,6 +699,76 @@ disease_symptoms = {
         'chest pain',
         'pressure in the chest region',
     ],
+
+    
+    # Diseases starting with "E"
+
+'Eczema': [
+    'dry, sensitive skin',
+    'intense itching',
+    'scaly areas',
+    'oozing or crusting',
+    'recurring rashes',
+    'dark-colored patches of skin',
+],
+
+'Edema': [
+    'puffiness or swelling of tissues under the skin',
+    'oncrease in abdomen size',
+    'stretched skin',
+    'shortness of breath',
+    'chest pain',
+    'difficulty in breathing',
+],
+
+'Endometriosis': [
+    'dysmenorrhea (Painful periods): Pelvic pain and cramping starting a few days before the menstrual period and may also include lower back and abdominal pain',
+    'pain during Intercourse: Pain during or after sex due to endometriosis',
+    'pain with urination and bowel movements: Pain during passing urine or bowel movements',
+    'excessive Bleeding: Heavy bleeding (menorrhagia) and bleeding between periods (menometrorrhagia)',
+    'infertility: One of the main reasons for infertility',
+],
+
+'Eosinophilia': [
+    'frequent wheezing',
+    'breathlessness',
+    'abdominal pain',
+    'diarrhea',
+    'fever',
+    'cough',
+    'skin rashes',
+],
+
+'Epilepsy': [
+    'sudden jerks in arms',
+    'strange feeling',
+    'sudden blackout and fainting',
+    'stiffness in muscles',
+    'twitching or trembling of muscles',
+    'psychic symptoms',
+],
+
+'Erectile Dysfunction': [
+    'trouble in getting an erection',
+    'difficulty in keeping an erection',
+    'reduced sexual desire',
+],
+
+'Evans Syndrome': [
+    'bleeding can happen from any part of the body like nose (epistaxis), oral cavity, eyes, hair follicles, etc.',
+    'bruises (blue spots) may be localized or generalized',
+    'petechiae: Tiny red dots that can appear at any part of the body',
+    'weakness',
+    'vertigo',
+    'headache',
+    'skin pallor (due to anemia)',
+    'fatigue',
+    'shortness of breath',
+    'tachycardia (rapid heartbeat)',
+    'recurrent infections',
+    'weight loss',
+    'emotional distress and irritability',
+],
     # Add more diseases and symptoms here
 }
 
