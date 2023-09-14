@@ -2146,6 +2146,31 @@ disease_symptoms = {
 
     # Diseases starting with "V"
 
+    'Vitiligo': [
+        'loss of skin color in blotches and patches',
+        'slow and sudden graying of hair on the head, eyelashes, eyebrows, and beard',
+        'loss of color of tissues found lining the inside of the mouth and the nose',
+        'loss and sudden or slow change in color of the inner layer of the retina',
+    ],
+
+    # Diseases starting with "V"
+
+    "Writer's Cramp": [
+        'improper writing way',
+        'altered handwriting',
+        'not able to hold the pen',
+        'not able to grip objects',
+        'not able to perform tasks like playing an instrument',
+        "hand's discomfort and uneasiness",
+        'stiffness and pain of hand muscles',
+        'deeling of vibrations in the affected hand',
+        'stress and mental fatigue',
+        'disturbed sleep',
+        'short temper',
+        'mood swings',
+        'blurred vision',
+        'digestive problems',
+    ],
     
     # Add more diseases and symptoms here
 }
