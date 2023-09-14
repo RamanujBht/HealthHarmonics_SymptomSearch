@@ -1472,8 +1472,160 @@ disease_symptoms = {
 
 # Diseases starting with "M"
 
+    'Malaria': [
+        'pain in the abdomen',
+        'diarrhea',
+        'anemia',
+        'abnormal bleeding',
+        'muscle pain',
+        'bloody stools',
+        'convulsions',
+        'impaired consciousness / Coma',
+        'respiratory distress',
+        'clinical jaundice',
+        'dysfunction of some vital organ of the body',
+    ],
+
+    'Membranous Glomerulonephritis': [
+        'swelling of hands, face, or feet',
+        'blood in urine',
+        'Foamy urine',
+        'weight gain',
+        'feeling of tiredness',
+        'need to urinate more at night',
+        'loss of appetite',
+    ],
+
+    'Menopause': [
+        'irregularity in the periods',
+        'pain during sexual intercourse',
+        'burning sensation during urination',
+        'vaginal atrophy',
+        'irritation in the vagina',
+        'inflammation in the vagina',
+        'dryness in the vagina',
+        'palpitations',
+        'heating sensation in upper body parts',
+        'night sweats in bed',
+        'finding difficulty in sleeping',
+        'urinary tract infections',
+        'mood swings',
+        'hair loss',
+        'change in the size of the breast',
+        'weight gains',
+        'short-term memory problems',
+        'lack of sleep',
+    ],
+
+    'Menorrhagia': [
+        'anemia',
+        'tiredness',
+        'fatigue',
+        'shortness of breath',
+        'bleeding for more than five days',
+        'changing tampons after every one hour',
+        'body ache and malaise',
+        'palpitation',
+        'prolonged and excessive bleeding',
+        'abdominal cramps',
+    ],
+
+    'Migraine': [
+        'headache',
+        'blisters',
+        'anal Rashes',
+        'rashes near genitals',
+        'rashes on feet',
+        'rashes on hands',
+        'rashes on mouth',
+        'rash on chest',
+        'rashes on face',
+        'blisters',
+        'itching blisters',
+        'painful blisters',
+        'itching pimples',
+        'painful pimples',
+        'inflamed lymph nodes',
+        'muscle pains',
+        'fever',
+        'shivering',
+        'fatigue',
+        'chills with fever',
+        'sore throat',
+        'cough',
+        'congestion',
+    ],
+
+    'Multiple Sclerosis': [
+        'numbness in limbs',
+        'weakness in limbs',
+        'weakness one side of the body',
+        'fatigue',
+        'dizziness',
+        'problem with bowel',
+        'bladder malfunction',
+        'pain in various body parts',
+        'prolonged double vision',
+        'partial loss of vision in one eye',
+        'complete loss of vision in one eye',
+        'pain during eye movement',
+        'loss of sensitivity',
+        'acute chronic pain',
+        'slurred speech',
+    ],
+
+    'Duchenne Muscular Dystrophy': [
+        'difficulty in running and jumping',
+        'learning disabilities',
+        'problems in getting up from a lying and sitting position',
+        'walking on toes',
+        'quick falls',
+        'stiffness',
+        'pain in muscles',
+    ],
+
+    'Becker Muscular Dystrophy': [
+        'qeakness in legs and arms',
+        'qalking on toes',
+        'muscle cramps',
+        'difficulty in getting up from the floor',
+    ],
+
+    'Congenital Muscular Dystrophy': [
+        'difficulty to sit and stand without support',
+        'vision problems',
+        'scoliosis',
+        'speech problems',
+        'intellectual deformities',
+        'muscles weakness',
+        'feet deformities',
+    ],
+
+    'Myotonic Dystrophy': [
+        'poor vision',
+        'difficulty in swallowing',
+        'early baldness',
+        'problem in lifting neck due to muscle weakness',
+        'weight loss',
+    ],
+
+    'Myopia': [
+        'objects that are far situated look blurred',
+        'person needs to close eyelashes to see clearly',
+        'constant headache',
+        'excessive strain on the eyes',
+        'rubbing of eyes',
+        'itching eyes',
+        'continuous squinting',
+        'excessive blinking of eyes',
+        'difficulty in reading books',
+        'difficulty seeing vehicles while driving, usually at night',
+    ],
+
+    # Diseases starting with "N"
 
 
+    
     
     # Add more diseases and symptoms here
 }
