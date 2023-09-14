@@ -1677,6 +1677,49 @@ disease_symptoms = {
     ],
 
     # Diseases starting with "O"
+
+        'Obesity': [
+        'Weight gain or BMI more than 30 (BMI is the excessive fat content in the body, calculated from height and weight measurements).',
+        'Breathlessness',
+        'Increased sweating',
+        'Snoring',
+        'Feeling back and joint pains',
+        'Getting tired easily',
+        'High blood pressure',
+        'Coronary heart disease',
+        'Stroke',
+    ],
+
+    'Organic Mood Disorder': [
+        'Extreme fluctuations in the personality of the patients',
+        'Persistent depression',
+        'Chronic depression',
+        'Easily irritated',
+        'Easily agitated',
+        'Aggressive behavior',
+        'Irrational anxieties in the patient',
+    ],
+
+    'Osteoarthritis': [
+        'Overweight',
+        'Joint injury',
+        'Age',
+        'Genetic defect',
+        'Gradual deterioration of cartilage',
+    ],
+
+    'Osteoporosis': [
+        'Bone loss',
+        'Severe Back Pain',
+        'Spinal deformities',
+        'Bone fracture',
+    ],
+
+    # Diseases starting with "P"
+
+    
+
+
     
     # Add more diseases and symptoms here
 }
