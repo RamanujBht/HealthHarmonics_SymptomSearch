@@ -1624,8 +1624,59 @@ disease_symptoms = {
 
     # Diseases starting with "N"
 
+    'Nephrotic Syndrome': [
+        'Hyperproteinemia',
+        'Hyperlipidemia',
+        'Lipiduria',
+        'Hyponatremia',
+        'Puffy eyes',
+        'Swelling in feet and ankles',
+        'Pitting edema in legs',
+        'Excessive weight gain due to urine retention',
+        'Poor appetite',
+        'Seizures',
+    ],
 
+    'Neurodermatitis': [
+        'Itching',
+        'Scaly skin',
+        'Patches on the skin',
+        'Leathery skin',
+        'Thick skin',
+        'Slightly elevated lesions of the skin',
+        'Rough patches on the skin',
+        'Redness',
+        'Skin discoloration',
+        'Permanent scars',
+    ],
     
+    'Nephrotic Syndrome': [
+        'Hyperproteinemia',
+        'Hyperlipidemia',
+        'Lipiduria',
+        'Hyponatremia',
+        'Puffy eyes',
+        'Swelling in feet and ankles',
+        'Pitting edema in legs',
+        'Excessive weight gain due to urine retention',
+        'Poor appetite',
+        'Seizures',
+    ],
+
+    'Neurodermatitis': [
+        'Itching',
+        'Scaly skin',
+        'Patches on the skin',
+        'Leathery skin',
+        'Thick skin',
+        'Slightly elevated lesions of the skin',
+        'Rough patches on the skin',
+        'Redness',
+        'Skin discoloration',
+        'Permanent scars',
+    ],
+
+    # Diseases starting with "O"
     
     # Add more diseases and symptoms here
 }
